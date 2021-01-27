@@ -9,6 +9,8 @@ keywords:
         segmentation: 1
         detection: 1
         semantic: 1
+        anomaly: 1
+        :1
 
 # 通知の閾値
 score_threshold: 0
