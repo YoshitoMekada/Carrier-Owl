@@ -4,6 +4,7 @@ subject: 'cat:cs.CV'
 # 検索キーワード
 keywords:
         medical: 5
+        attention: 1
         segmentation: 3
         detection: 1
 
