@@ -1,5 +1,5 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.CV'
+subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
@@ -10,5 +10,6 @@ keywords:
         detection: 1
         semantic: 1
         anomaly: 1
+
 # 通知の閾値
 score_threshold: 0
