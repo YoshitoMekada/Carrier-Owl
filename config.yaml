@@ -10,6 +10,7 @@ keywords:
         detection: 1
         semantic: 1
         anomaly: 1
+        transformer: 1
 
 # 通知の閾値
 score_threshold: 0
